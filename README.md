@@ -4,6 +4,7 @@ Please join this organisation, if you are interested in finding more about machi
 
 We will share relevant notes and links here. Please add any useful links you find that you think the group will find helpful.
 
-To start, please take a look at the following introductory course at Coursera. 
+
+To start, please take a look at the following introductory course at Coursera:
 
 https://www.coursera.org/course/ml
